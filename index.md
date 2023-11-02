@@ -17,3 +17,7 @@
 * [PDF Example](https://github.com/BU-IE-423/fall-23-mugesenay/blob/main/IE423_Fall23_tutorial.pdf): PDF Example 1
 
 * [PDF Example 2](IE423_Fall23_tutorial.pdf): PDF Example 2
+
+* [Project Part 1 HTML:](IE423 - Project Part 1 (1) (1) (1) (1).html)
+  
+* [Project Part 1 .py:](IE423 - Project Part 1 (1) (1).py)
