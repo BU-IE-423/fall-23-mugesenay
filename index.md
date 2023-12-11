@@ -21,3 +21,5 @@
 * [Project Part 1 HTML](IE423 - Project Part 1 (1) (1) (1) (1).html)
   
 * [Project Part 1 .py](IE423 - Project Part 1 (1) (1).py)
+
+* [Project Part 2 HTML](IE423 - Project Part 2.html)
